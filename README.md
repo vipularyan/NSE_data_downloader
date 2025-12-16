@@ -58,4 +58,4 @@ This project is protected by **All Rights Reserved** copyright.
 
 * You are welcome to view and study the code for personal learning.
 * **You may NOT copy, redistribute, modify, or reuse this code for any other project (commercial or non-commercial).**
-* For any exceptions, please contact[Vipul Yadav](https://github.com/vipularyan).
+* For any exceptions, please contact [Vipul Yadav](https://github.com/vipularyan).
